@@ -1,1 +1,6 @@
 console.log("Register done")
+console.log("Register done")
+console.log("Register done")
+console.log("Register done")
+console.log("Register done")
+console.log("HAHAHA aku selalu mencintaimuu selalu")
